@@ -1,0 +1,33 @@
+<!DOCTYPE html>
+<html lang="PT-BR"
+>
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta name="descripion" content="Atividade 2">
+    <title>Pelife</title>
+</head>
+<body>
+    <header>
+        <h1>Pet Life</h1>
+        
+    </header>
+    <nav> 
+        <a href="pet.jpg" target="iframe_a">inicial </a> 
+        <a href="QuemSomos.html" target="iframe_a">Quem somos</a>  
+        <a href="Cadastro.html" target="iframe_a">Cadastro</a>  
+        <a href="Serviço.html" target="iframe_a">Serviços</a>
+    </nav>
+    <div>
+        <iframe frameborder="0" scrolling="yes"  width="100%" height="700px" name ="iframe_a" img src="pet.jpg"></iframe>
+       
+    </div>
+    
+    
+    <footer>Alunos:Eliakinn Enoque/ Gabriel Serafim/ Victor Alves da Silva</footer>
+    
+
+
+</body>
+</html>
