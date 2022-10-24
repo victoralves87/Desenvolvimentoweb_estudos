@@ -55,7 +55,7 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <meta name="descripion" content="Atividade 2">
     <title>Pelife</title>
-    
+    <h1>Cadastro</h1>
     <tr>
         <label for="nome">email:</label>
        <input type="text" id="email" /><br> <br>
@@ -63,10 +63,12 @@
        <input type="password" id="senha" /><br> <br>
        <label for="nome">celular:</label>
        <input type="number" id="celular" /><br> <br>
-       
-   </tr>    
+
+          </tr> 
+          <button> Enviar</button>   
+          <button>Redefinir</button>
 </head>
 <body>
-    <h1>Cadastro</h1>
+    
 </body>
 </html>
