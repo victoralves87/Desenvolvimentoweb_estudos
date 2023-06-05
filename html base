@@ -1,0 +1,122 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, intial-scale=1">
+  <link rel="stylesheet" type="text/css" href="css/style.css">
+  <title>Página principal</title>
+</head>
+<body>
+  <main>
+    <header class="header">
+      <div class="container">
+        <h1><img src="img/logo.png" alt="MagNatum"></h1>
+        <nav>
+          <ul>
+            <li><a href="index.html">HOME</a></li>
+            <li><a href="empresa.html">EMPRESA</a></li>
+            <li><a href="#">SERVIÇOS <span>▼</span></a>
+              <ul>
+                <li class="sub"><a href="criacao.html" class="temp">CRIAÇÃO</a></li>
+                <li class="sub"><a href="hospeagem.html" class="temp">HOSPEDAGEM</a></li>
+                <li class="sub"><a href="manutencao.html" class="temp">MANUTENÇÃO</a></li>
+                <li class="sub"><a href="dominios.html" class="temp">REGISTRO DE DOMÍNIOS</a></li>
+              </ul>
+            </li>
+            <li><a href="#">PORTFÓLIO <span>▼</span></a>
+              <ul>
+                <li class="sub"><a href="sites.html" class="temp">SITES</a></li>
+                <li class="sub"><a href="apps.html" class="temp">APPS</a></li>
+                <li class="sub"><a href="impressos.html" class="temp">IMPRESSOS</a></li>
+              </ul>
+            </li>
+            <li><a href="contato.html">CONTATO</a></li>
+          </ul>
+        </nav>
+      </div>
+    </header>
+    <section class="carroussel"></section>
+    <section class="apresenta">
+      <div class="container">
+        <div class="apr-bloco01">
+          <h2>BEM VINDO AO<span>NOSSO SITE</span></h2>
+          <p>O empenho em analisar o novo modelo estrutural aqui preconizado é uma das consequências dos procedimentos normalmente adotados. Percebemos, cada vez mais, que o aumento do diálogo entre os diferentes setores produtivos promove a alavancagem das diversas correntes de pensamento. A certificação de metodologias que nos auxiliam a lidar com a revolução dos costumes estende o alcance e a importância dos conhecimentos estratégicos para atingir a excelência. É claro que o consenso sobre a necessidade de qualificação possibilita uma melhor visão global das condições inegavelmente apropriadas.</p>
+          <div><button class="saiba">Saiba Mais</button></div>
+        </div>
+        <div class="apr-bloco02">
+          <figure>
+            <img src="img/ilustracao.png" alt="Boas-vindas">
+          </figure>
+        </div>
+      </div>
+    </section>
+    <section class="cards">
+      <div class="container">
+        <div>
+          <img src="img/card01.png">
+          <h3>CRIAÇÃO DE SITES</h3>
+          <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Officiis quo autem laboriosam laudantium porro maxime est sequi ad assumenda consequatur, optio suscipit exercitationem nesciunt libero, voluptatem nihil. Enim, quos consequuntur.</p>  
+          <div><div><button class="saiba">Saiba Mais</button></div></div>     
+        </div>
+        <div>
+          <img src="img/card02.png">
+          <h3>HOSPEDAGEM DE SITES</h3>
+          <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Officiis quo autem laboriosam laudantium porro maxime est sequi ad assumenda consequatur, optio suscipit exercitationem nesciunt libero, voluptatem nihil. Enim, quos consequuntur.</p>  
+          <div><div><button class="saiba">Saiba Mais</button></div></div>     
+        </div>
+        <div>
+          <img src="img/card03.png">
+          <h3>MANUTENÇÃO DE SITES</h3>
+          <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Officiis quo autem laboriosam laudantium porro maxime est sequi ad assumenda consequatur, optio suscipit exercitationem nesciunt libero, voluptatem nihil. Enim, quos consequuntur.</p>  
+          <div><div><button class="saiba">Saiba Mais</button></div></div>     
+        </div>
+        <div>
+          <img src="img/card04.png">
+          <h3>REGISTRO DE SITES</h3>
+          <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Officiis quo autem laboriosam laudantium porro maxime est sequi ad assumenda consequatur, optio suscipit exercitationem nesciunt libero, voluptatem nihil. Enim, quos consequuntur.</p>  
+          <div><div><button class="saiba">Saiba Mais</button></div></div>     
+        </div>
+        </div>
+    </section>
+    <footer class="footer1">
+      <div class="container">
+      <div>
+        <h3>ENDEREÇO:</h3>
+        <p>Endereeço:<img src="img/local.png" alt=""> <br>
+          Lorem ipsum dolor sit amet consectetur adipisicing elit. Id, facilis impedit quam corrupti quae quas natus reprehenderit tempora, earum voluptatum dicta voluptatibus, eius doloremque.
+        </p>
+      </div>
+
+      <div>
+        <h3>CONTATO</h3>
+        <p>Contato: <img src="img/mail.png" alt=""> <br>
+          Lorem ipsum dolor sit amet consectetur adipisicing elit. Quae, consectetur voluptatem illo nihil, sequi officiis assumenda voluptate minus dolorem facere vel repudiandae voluptatum.
+        </p>
+      </div>
+
+      <div>
+        <h3>FACEBOOK</h3>
+        <p>Facebook:<img src="img/facebook.png" alt=""> <br>
+          Lorem ipsum dolor sit amet consectetur adipisicing elit. Quae ipsa sequi exercitationem placeat, a dolorem aut labore tempore ea ratione voluptate hic quidem maiore.
+        </p>
+      </div>
+
+      <div>
+        <h3>TELEFONE</h3>
+        <p>Telefone: <img src="img/fone.png" alt=""> <br>
+          (81)9999-9999 (claro)
+        </p>
+      </div>
+    </div>
+    </footer>
+    
+    <footer class="footer2">
+      <div class="container">
+        <p>2023 victor alves site</p>
+
+      </div>
+
+    </footer>
+  </main>
+</body>
+</html>
